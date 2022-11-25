@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Harga3">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:text="Ini adalah makanan kucing dengan bentuk basah yang berisi potongan jelly dan saus. Royal Canin Kitten Pouch Gravy Jelly direkomendasikan untuk kucing usia sampai 12 bulan. Karena produk ini dapat membantu transisi anak kucing yang sebelumnya hanya minum susu ke makanan padat. Sehingga bisa meminimalisir terjadinya masalah pencernaan pada anak kucing. Cat food ini juga punya komposisi seimbang yang bisa membantu membangun kalsium dan sistem kekebalan tubuh yang cukup bagi anak kucing untuk menjaga kesehatan giginya. Harga kisaran Rp 18.000 (85 gr)."
+            android:textAlignment="textStart"
+            android:textColor="#2E2E2E"/>
+
+
+    </ScrollView>
+
+</RelativeLayout>

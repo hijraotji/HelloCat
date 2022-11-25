@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Harga1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:text="Merk Whiskas memang sudah tidak asing lagi bagi beberapa pecinta kucing. Makanan kucing satu ini memiliki kandungan A dan E yang dibutuhkan oleh kucing. Namun produk Whiskas ini terbuat dari gandum dan jagung, jadi kurang aman kalau dikonsumsi oleh kucing yang sedang mengalami gangguan pencernaan. Kucing kesayanganmu akan mendapatkan lemak dan protein berkualitas terpilih untuk menyediakan energi buat bermain. Varian rasanya sangat bervariasi, ada chicken, mackerel, ocean fish dan tuna. Harga kisaran Rp 27.000 (480 gr) – Rp 66.300 (1.2 gr)."
+            android:textAlignment="textStart"
+            android:textColor="#2E2E2E"/>
+
+
+    </ScrollView>
+
+</RelativeLayout>
