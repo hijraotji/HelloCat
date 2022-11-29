@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">HelloCat</string>
     <string name="title">judul</string>
+
+    <string name="nama_makanan">nama_makanan</string>
+    <array name="datapoto">
+        <item>@drawable/whiskes</item>
+        <item>@drawable/felibite</item>
+        <item>@drawable/bolt</item>
+    </array>
+    <string-array name="data_name">
+        <item>Whiskas</item>
+        <item>Felibite</item>
+        <item>Bolt</item>
+    </string-array>
 </resources>
